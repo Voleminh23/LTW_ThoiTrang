@@ -1,5 +1,7 @@
-ĐỒ ÁN BÁN HÀNG THỜI TRANG NỮ
+**ĐỒ ÁN BÁN HÀNG THỜI TRANG NỮ**
+
 **Giới thiệu**
+
 Dự án được xây dựng với ASP.NET MVC và kết nối cơ sở dữ liệu với MS SQL bằng LINQ.
 Vì đây là đồ án vẫn còn đang phát triển nên sẽ có thiếu sót và chưa hoàn thiện nên nếu có bất kì vấn đề gì, bạn có thể liên hệ qua email để trao đổi với mình.
 
